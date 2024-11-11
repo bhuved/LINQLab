@@ -1,0 +1,14 @@
+C:\Users\vedaa\source\repos\LINQLab\bin\Debug\net8.0\LINQLab.exe
+C:\Users\vedaa\source\repos\LINQLab\bin\Debug\net8.0\LINQLab.deps.json
+C:\Users\vedaa\source\repos\LINQLab\bin\Debug\net8.0\LINQLab.runtimeconfig.json
+C:\Users\vedaa\source\repos\LINQLab\bin\Debug\net8.0\LINQLab.dll
+C:\Users\vedaa\source\repos\LINQLab\bin\Debug\net8.0\LINQLab.pdb
+C:\Users\vedaa\source\repos\LINQLab\obj\Debug\net8.0\LINQLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedaa\source\repos\LINQLab\obj\Debug\net8.0\LINQLab.AssemblyInfoInputs.cache
+C:\Users\vedaa\source\repos\LINQLab\obj\Debug\net8.0\LINQLab.AssemblyInfo.cs
+C:\Users\vedaa\source\repos\LINQLab\obj\Debug\net8.0\LINQLab.csproj.CoreCompileInputs.cache
+C:\Users\vedaa\source\repos\LINQLab\obj\Debug\net8.0\LINQLab.dll
+C:\Users\vedaa\source\repos\LINQLab\obj\Debug\net8.0\refint\LINQLab.dll
+C:\Users\vedaa\source\repos\LINQLab\obj\Debug\net8.0\LINQLab.pdb
+C:\Users\vedaa\source\repos\LINQLab\obj\Debug\net8.0\LINQLab.genruntimeconfig.cache
+C:\Users\vedaa\source\repos\LINQLab\obj\Debug\net8.0\ref\LINQLab.dll
